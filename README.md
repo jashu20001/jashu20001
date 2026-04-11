@@ -1,5 +1,15 @@
 # About Me:
-Fresher Data Analyst passionate about transforming data into actionable insights<br>I enjoy working with complex datasets and building dashboards that tell clear stories<br>Currently exploring advanced SQL, Python for analytics, and data visualization best practices<br>Ask me about data cleaning, dashboards, healthcare analytics, or Python scripting<br>Open to collaborating on data analytics and visualization projects
+Software Engineer and Data Scientist passionate about building intelligent applications that bridge data and technology.
+
+I work across the full stack  from data analytics and visualization to AI-powered applications and microservice architectures. I enjoy solving complex problems by combining strong engineering principles with data driven thinking.
+
+Skilled in Python, SQL, REST APIs, LLM integration, and full-stack 
+development. Currently focused on agentic AI workflows, prompt 
+engineering, and building production ready applications.
+
+Ask me about data analytics, Python, AI agents, or full-stack development.
+
+Open to collaborating on data science, AI engineering, and full-stack projects.
 
 
 ## 🌐 Socials:
